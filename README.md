@@ -3,6 +3,8 @@ Tamagotchi fairy that takes care of YOU rather than you of it  (gives reminders 
 
 I made this in a tamagotchi workshop and I wanted to make it because I wanted evidence that I could finish a hardware project fully from start to end. I decided on this concept of a fairy instead of a pet mainly because of the pcb art I decided to use, and on it taking care of you rather than you of it because when I was younger I had a tamagotchi I really liked but what I liked most about it was that it had a clock, so I wanted to build something useful for my first tamagotchi too :)
 
+To use it, you press the buttons below the screen, and you'll be redirected to different screen interfaces each with different functionality (e.g. sleep screen). 
+
 ## Schematic
 <img width="1000" alt="image" src="https://github.com/user-attachments/assets/4d1868f4-5a3f-4490-a6c0-6cfbf5e4d794" />
 
