@@ -10,6 +10,7 @@ I made this in a tamagotchi workshop and I wanted to make it because I wanted ev
 <img width="1000" alt="image" src="https://github.com/user-attachments/assets/fcad225c-6d06-4c92-8efd-25ac805275f7" />
 
 ## 3D Render of PCB
+<img width="1605" height="908" alt="image" src="https://github.com/user-attachments/assets/9a68822f-34f2-4073-b6f8-18077b696f5d" />
 <img width="1000" alt="image" src="https://github.com/user-attachments/assets/df097373-d849-441f-86f4-cfc7b37fd12a" />
 <img width="1000" alt="image" src="https://github.com/user-attachments/assets/6d9a579b-0306-42b9-90be-a1b296b01d6d" />
 <img width="1000" alt="image" src="https://github.com/user-attachments/assets/548c7e6f-f6b9-496f-8f8d-746ba37e0de3" />
